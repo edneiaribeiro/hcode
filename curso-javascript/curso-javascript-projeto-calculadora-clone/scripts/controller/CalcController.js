@@ -136,7 +136,7 @@ class CalcController {
                 this.setLastOperation(value);
                 
 
-            } else if(isNaN(value)) {
+            } else if (isNaN(value)) {
                 //outra coisa
                 console.log('outra coisa',value);
                 
